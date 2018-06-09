@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>EPAM DevOps CodeDeploy Demo</title>
+  <title>DevOps CodeDeploy Demo</title>
   <style>
     body {
       color: #ffffff;	
@@ -42,7 +42,6 @@
 </head>
 <body>
   <div align="center">
-    <img src="logo.png"/>
     <h1>Congratulations!</h1>
     <h2>This application was deployed using AWS CodeDeploy from GitHub.</h2>
     <h1>Version 1.0</h1>
