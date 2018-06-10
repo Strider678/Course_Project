@@ -43,7 +43,7 @@
 <body>
   <div align="center">
     <h1>Congratulations!</h1>
-    <h2>This application was deployed using AWS CodeDeploy from GitHub.</h2>
+    <h2>This is test of Auto Deployment.</h2>
     <h1>Version 1.0</h1>
     <?php
       $id = file_get_contents("http://instance-data/latest/meta-data/instance-id");
